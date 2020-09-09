@@ -1,4 +1,10 @@
-### Heyy, there! 👋
+# Vinicius Rodrigues
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/vn-rodrigues/)](https://www.linkedin.com/in/vn-rodrigues/) 
+[![Gmail Badge](https://img.shields.io/badge/-rv.vrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rv.vrodrigues@gmail.com)](mailto:rv.vrodrigues@gmail.com)
+
+Enthusiast of the best Data Engineering and Machine Learning development technologies.
 
 <!--
 **vinicius-rodrigues1/vinicius-rodrigues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
